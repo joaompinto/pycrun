@@ -1,0 +1,8 @@
+metadict
+pyroute2
+python-dateutil
+requests
+termcolor
+tmsyscall
+tqdm
+typer
